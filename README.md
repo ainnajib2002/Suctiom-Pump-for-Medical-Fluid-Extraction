@@ -31,8 +31,11 @@ Suction Pump adalah alat medis untuk menghisap berbagai jenis cairan tubuh seper
 
 ---
 
+## Desain 3D
+<img src="[https://github.com/username/Suction-Pump-Project/blob/main/Skema_Rangkaian/Skema%20Rangkaian.png](https://github.com/ainnajib2002/Suctiom-Pump-for-Medical-Fluid-Extraction/blob/main/Desain/Mekanik/Desain%20Mekanik.PNG)" alt="Skema Rangkaian" width="400">
+
 ## Skema Rangkaian
-<img src="https://github.com/username/Suction-Pump-Project/blob/main/Skema_Rangkaian/Skema%20Rangkaian.png" alt="Skema Rangkaian" width="400">
+<img src="" alt="Skema Rangkaian" width="400">
 
 ---
 
